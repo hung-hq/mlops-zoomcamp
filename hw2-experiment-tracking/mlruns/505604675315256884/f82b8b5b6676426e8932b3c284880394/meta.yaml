@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/505604675315256884/f82b8b5b6676426e8932b3c284880394/artifacts
+end_time: 1748282092219
+entry_point_name: ''
+experiment_id: '505604675315256884'
+lifecycle_stage: active
+run_id: f82b8b5b6676426e8932b3c284880394
+run_name: stylish-fox-313
+run_uuid: f82b8b5b6676426e8932b3c284880394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748282087279
+status: 3
+tags: []
+user_id: HQH

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/505604675315256884/e7f53047173b4ab6bb9157e924996779/artifacts
+end_time: 1748282050371
+entry_point_name: ''
+experiment_id: '505604675315256884'
+lifecycle_stage: active
+run_id: e7f53047173b4ab6bb9157e924996779
+run_name: dazzling-quail-357
+run_uuid: e7f53047173b4ab6bb9157e924996779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748282049933
+status: 3
+tags: []
+user_id: HQH

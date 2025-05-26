@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/677053606725348399/e5305c8a0e414e7daf679582ba6a2190/artifacts
+end_time: 1748282707733
+entry_point_name: ''
+experiment_id: '677053606725348399'
+lifecycle_stage: active
+run_id: e5305c8a0e414e7daf679582ba6a2190
+run_name: capricious-mule-942
+run_uuid: e5305c8a0e414e7daf679582ba6a2190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748282676910
+status: 3
+tags: []
+user_id: HQH

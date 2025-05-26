@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Uni/DataTalksClub/MLOps_Zoomcamp_2025/hw2-experiment-tracking/mlruns/0/f72a479b26b44b8699b01e76556421bd/artifacts
+end_time: 1748280880850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f72a479b26b44b8699b01e76556421bd
+run_name: learned-roo-965
+run_uuid: f72a479b26b44b8699b01e76556421bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748280844729
+status: 3
+tags: []
+user_id: HQH

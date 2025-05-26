@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/505604675315256884/d5d03c7b06b44184b5a22ff441457940/artifacts
+end_time: 1748282056976
+entry_point_name: ''
+experiment_id: '505604675315256884'
+lifecycle_stage: active
+run_id: d5d03c7b06b44184b5a22ff441457940
+run_name: exultant-donkey-738
+run_uuid: d5d03c7b06b44184b5a22ff441457940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748282051047
+status: 3
+tags: []
+user_id: HQH
